@@ -1,4 +1,4 @@
-🎬 MyShowz
+🎬 MyShows
 
 License: MIT Tech Stack: HTML, CSS, JavaScript Deployment: GitHub Pages
 
