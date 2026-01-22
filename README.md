@@ -50,7 +50,7 @@ Steps
 
 Clone the repository:
 
-git clone https://github.com/jayant1796/myshow.git cd myshow
+git clone https://github.com/jayant1796/myshow  cd myshow
 
 Open index.html in your browser.
 
